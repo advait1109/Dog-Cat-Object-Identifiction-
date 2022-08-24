@@ -1,0 +1,20 @@
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10;
+}
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading
+{
+font-size: 35px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 20px;
+}
+
